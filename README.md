@@ -42,7 +42,7 @@
 ---
 
 ### 🧩 Framework  
-  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/spring.png" height="35" title="Spring Boot"/> 
+  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring.png" height="35" title="Spring Boot"/> 
 
 ---
 

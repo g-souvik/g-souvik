@@ -36,18 +36,18 @@
 ### 👨‍💻 Programming Language  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/g-souvik/read/main/icons/sql.png" height="40" title="SQL"/>  
+  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/sql.png" height="40" title="SQL"/>  
 </p>
 
 ---
 
 ### 🧩 Framework  
-  <img src="https://raw.githubusercontent.com/g-souvik/read/main/spring.png" height="35" title="Spring Boot"/> 
+  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/spring.png" height="35" title="Spring Boot"/> 
 
 ---
 
 ### 🗄️ Database  
-<img src="https://raw.githubusercontent.com/g-souvik/read/main/icons/mysql.png" height="40" title="MySQL"/>  
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/mysql.png" height="40" title="MySQL"/>  
 
 ---
 
@@ -64,7 +64,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" title="VS Code"/> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" title="IntelliJ IDEA"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/g-souvik/read/main/icons/spring-tool.svg" height="40" title="Spring Tool Suite"/>  
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring-tool.svg" height="40" title="Spring Tool Suite"/>  
 </p>
 
 ---

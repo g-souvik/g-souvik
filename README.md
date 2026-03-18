@@ -1,8 +1,12 @@
-<p align="center">
-  # Hello 👋, I'm Souvik
 
-  **Aspiring Software Engineer&nbsp;|&nbsp;Java & Spring Boot Enthusiast**
-</p>
+<div align="center">
+
+# Hello 👋, I'm Souvik
+
+**Aspiring Software Engineer | Java & Spring Boot Enthusiast**
+
+</div>
+
 ---
 
 ## About Me

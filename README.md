@@ -37,39 +37,68 @@
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Programming Language  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/sql.png" height="40" title="SQL"/>  
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="450">
 
-### 🧩 Framework  
-  <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring.png" height="35" title="Spring Boot"/> 
+### 👨‍💻 Programming Languages
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" title="Java"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/sql.png" height="45" title="SQL"/>
+<br><br>
+</td>
 
----
+<td align="center" width="450">
 
-### 🗄️ Database  
-<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/mysql.png" height="40" title="MySQL"/>  
+### 🧩 Framework
+<br>
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring.png" height="40" title="Spring Boot"/>
+<br><br>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
 
-### ⚙️ Tools  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="40" title="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" title="GitHub"/>  
-</p>
+### 🗄️ Database
+<br>
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/mysql.png" height="45" title="MySQL"/>
+<br><br>
+</td>
 
----
+<td align="center">
 
-### 💻 IDEs & Editors  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" title="VS Code"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" title="IntelliJ IDEA"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring-tool.svg" height="40" title="Spring Tool Suite"/>  
-</p>
+### ⚙️ Tools
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="45" title="Postman"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" title="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" title="GitHub"/>
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 💻 IDEs & Editors
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45" title="IntelliJ IDEA"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring-tool.svg" height="45" title="Spring Tool Suite"/>
+<br><br>
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 

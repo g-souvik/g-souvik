@@ -46,7 +46,7 @@
 ### 👨‍💻 Programming Languages
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" title="Java"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/sql.png" height="45" title="SQL"/>
 <br><br>
 </td>
@@ -73,6 +73,8 @@
 
 ### ⚙️ Tools
 <br>
+<img src="https://cdn.simpleicons.org/swagger" height="45" title="Swagger UI"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="45" title="Postman"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" title="Git"/>
@@ -88,9 +90,9 @@
 ### 💻 IDEs & Editors
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45" title="IntelliJ IDEA"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/spring-tool.svg" height="45" title="Spring Tool Suite"/>
 <br><br>
 </td>
@@ -106,22 +108,20 @@
 
 ### 🛒 E-Commerce Application
 
-A full-stack **E-commerce platform** built with **Spring Boot, JSP, and MySQL**.
+A full-stack **E-commerce application** built with **Spring Boot, JSP, Bootstrap and MySQL**.
 
 **Features:**
 * User registration & login
-* Product management
-* Cart & order processing
+* Product catalog
+* Shopping cart
+* Order management
+* Admin product management
 * Responsive JSP + Bootstrap frontend
 
 **Tech Stack:**
-Spring Boot | MySQL | JSP
+Spring Boot | MySQL | JSP | Bootstrap
 
 
 <a href="https://github.com/g-souvik/E-commerce_platform" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project--181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-souvik&layout=compact&theme=tokyonight"/>
-</p>

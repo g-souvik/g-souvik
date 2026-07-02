@@ -121,3 +121,7 @@ Spring Boot | MySQL | JSP
 <a href="https://github.com/g-souvik/E-commerce_platform" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project--181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-souvik&layout=compact&theme=tokyonight"/>
+</p>

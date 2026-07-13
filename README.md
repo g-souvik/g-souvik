@@ -1,19 +1,19 @@
 
 <div align="center">
 
-# Hello 👋, I'm Souvik
+# Hi 👋, I'm Souvik
 
-**Aspiring Software Engineer | Java & Spring Boot Enthusiast**
+### Aspiring Software Engineer &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Java & Spring Boot Enthusiast
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-* Strong foundation in Java and Object-Oriented Programming
-* Hands-on experience building backend applications using Spring Boot
-* Familiar with REST APIs and database design using MySQL
+- Strong foundation in Java and Object-Oriented Programming
+- Hands-on experience building backend applications using Spring Boot
+- Familiar with REST APIs and database design using MySQL
 
 ---
 
@@ -43,7 +43,7 @@
 <tr>
 <td align="center" width="450">
 
-### 👨‍💻 Programming Languages
+### </> Programming Languages
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" title="Java"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,7 @@
 <tr>
 <td align="center">
 
-### 🗄️ Database
+### 🛢️ Database
 <br>
 <img src="https://raw.githubusercontent.com/g-souvik/g-souvik/main/icons/mysql.png" height="45" title="MySQL"/>
 <br><br>
@@ -104,11 +104,31 @@
 
 ---
 
-## 📂 Project
+## 📂 Projects
+
+### 🎓 Student Management System
+
+> A role-based **backend Student Management System** built with **Spring Boot** and **Spring Security**.
+
+**Features:**
+- Role-based authentication & authorization
+- Student management
+- Subject management
+- Marks & result management
+- BCrypt password encryption
+- RESTful APIs
+
+**Tech Stack:** `Spring Boot` • `Spring Security` • `Spring Data JPA` • `MySQL`
+
+<a href="https://github.com/g-souvik/student-management-system" target="_blank">
+<img src="https://img.shields.io/badge/View%20Project--181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
 
 ### 🛒 E-Commerce Application
 
-A full-stack **E-commerce application** built with **Spring Boot, JSP, Bootstrap and MySQL**.
+> A full-stack **E-commerce application** built with **Spring Boot** and **MySQL**.
 
 **Features:**
 * User registration & login
@@ -118,10 +138,14 @@ A full-stack **E-commerce application** built with **Spring Boot, JSP, Bootstrap
 * Admin product management
 * Responsive JSP + Bootstrap frontend
 
-**Tech Stack:**
-Spring Boot | MySQL | JSP | Bootstrap
-
+**Tech Stack:** `Spring Boot` • `Spring Data JPA` • `MySQL` • `JSP` • `Bootstrap`
 
 <a href="https://github.com/g-souvik/E-commerce_platform" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project--181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
